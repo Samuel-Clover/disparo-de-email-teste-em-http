@@ -15,8 +15,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     // Mail::send('emails.disparoemail',["newemail" => "subscrible"], function ($envio) {
-    //     $envio->from('samukruzynski@gmail.com');
-    //     $envio->to('samuel2pgames@gmail.com');
+    //     $envio->from(seu email);
+    //     $envio->to('seu email');
     // });
     return view('welcome');
 });
