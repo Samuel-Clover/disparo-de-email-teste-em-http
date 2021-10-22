@@ -7,3 +7,6 @@ instalar dependências:
 iniciar o projeto 
 
 `php artisan serve`
+
+Obs:
+ `e preciso ter o composer instalado para aplicação funcionar`. 
